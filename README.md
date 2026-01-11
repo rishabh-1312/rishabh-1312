@@ -1,5 +1,141 @@
-# 💫 About Me:
-# Hi 👋, I'm Rishabh Kumar  <br><br>🎓 B.Tech IT Student (2022–2026) | 📍 Greater Noida, India 🇮🇳  <br>📊 Aspiring Data Analyst | 💻 Software Development Enthusiast  <br><br>---<br><br>## 👨‍💻 About Me  <br><br>I’m a detail-oriented IT graduate with strong fundamentals in programming and data analytics.  <br>I have hands-on experience in working with real-world datasets, building dashboards, and developing AI-assisted analytical solutions.  <br>I enjoy solving problems using data, writing clean code, and continuously upgrading my technical skills.<br><br>---<br><br>## 🔭 I’m currently working on  <br><br>- Data Analytics projects using **Python, SQL, Excel, and Power BI**  <br>- Business Intelligence dashboards for decision-making  <br>- Improving **Data Structures & problem-solving** skills  <br><br>---<br><br>## 👯 I’m looking to collaborate on  <br><br>- **Data Analytics & Business Intelligence** projects  <br>- Python-based data processing and visualization  <br>- Beginner-friendly **Machine Learning / AI-assisted tools**  <br><br>---<br><br>## 🤝 I’m looking for help with  <br><br>- Advanced **Machine Learning & NLP** concepts  <br>- Deploying data analytics projects in real-world scenarios  <br>- Data storytelling and dashboard design best practices  <br><br>---<br><br>## 🌱 I’m currently learning  <br><br>- Advanced **SQL & database optimization**  <br>- **Machine Learning & NLP** fundamentals  <br>- **Power BI & Tableau** for professional analytics  <br><br>---<br><br>## 💬 Ask me about  <br><br>- Data Analytics (Python, SQL, Excel, Power BI)  <br>- AI-based Resume Screening & Job Matching  <br>- DBMS, OOPs, and basic Machine Learning  <br><br>---<br><br>## ⚡ Fun fact  <br><br>I love turning raw, messy data into clean dashboards and meaningful insights 📊  <br><br>---<br><br>## 🛠️ Technical Skills  <br><br>**Languages:**  <br>C, C++, SQL, Python, JavaScript, HTML, CSS  <br><br>**Data & Visualization:**  <br>Power BI, Microsoft Excel (Pivot Tables, Charts), Data Cleaning  <br><br>**Databases:**  <br>MySQL, PostgreSQL  <br><br>**Core CS:**  <br>Data Structures, DBMS, OOP, Operating Systems  <br><br>**Tools:**  <br>Git, GitHub, VS Code  <br><br>---<br><br>## 🚀 Projects  <br><br>### 📊 Business Sales & Customer Intelligence Analytics Platform  <br>**Tech:** Excel, SQL, Python, Power BI, Tableau  <br><br>- Analyzed sales performance, customer behavior, and revenue trends  <br>- Cleaned and processed datasets using Python and Excel  <br>- Performed SQL-based KPI analysis  <br>- Built interactive dashboards for management insights  <br><br>---<br><br>### 🤖 Smart Resume Screening & Job Match System (AI-Assisted)  <br>**Tech:** Python, Machine Learning, NLP, Scikit-learn, ChatGPT  <br><br>- Developed an AI-based resume screening system  <br>- Extracted skills and experience using NLP  <br>- Built ML model for resume–job match scoring  <br>- Generated HR-friendly insights for faster shortlisting  <br><br>---<br><br>## 📜 Certifications  <br><br>- SQL and Relational Databases – IBM  <br>- Power BI Certification  <br>- Google Cloud Generative AI Internship  <br>- Real-Time Operating Systems – NPTEL  <br>- Palo Alto Cybersecurity Internship – AICTE  <br>- Network Security Fundamentals – Cisco  <br><br>---<br><br>## 🏆 Achievements & Activities  <br><br>- Solved problems on **LeetCode & GeeksforGeeks**  <br>- Participated in **Neuro Nest Hackathon** & college hackathons  <br>- Editorial Member – Shrinik Club  <br>- Volunteer – Rotary Club (Blood Donation Camp)  <br>- Completed **Supply Chain Operations Academy (SCOA)** Workshop  <br><br>---<br><br>## 🔗 Connect with Me  <br><br>📧 Email: **rawatrishabh015@gmail.com**  <br>📱 Phone: **+91 9935451312**  <br><br>🌐 GitHub: https://github.com/rishabh-1312  <br>💼 LinkedIn: https://www.linkedin.com/in/rishabh  <br>🧠 LeetCode: https://leetcode.com/  <br><br>---<br><br>⭐ *If you like my work, feel free to connect or collaborate!*  <br>
+ 👋 Hi, I'm Rishabh Kumar  
+
+🎓 **B.Tech Information Technology (2022–2026)**  
+📍 Greater Noida, India  
+📊 **Data Analytics | Software Development | Machine Learning**
+
+---
+
+ 👨‍💻 About Me  
+
+I am a detail-oriented Information Technology undergraduate with a strong foundation in **programming, data analytics, and problem-solving**.  
+I have hands-on experience working with **real-world datasets**, building **business intelligence dashboards**, and developing **AI-assisted analytical solutions**.  
+
+I am passionate about transforming data into actionable insights, writing clean and scalable code, and continuously improving my technical and analytical skills.
+
+---
+
+ 🔭 Currently Working On  
+
+- Data analytics projects using **Python, SQL, Excel, and Power BI**  
+- Building **business intelligence dashboards** for data-driven decision-making  
+- Strengthening **data structures and algorithmic problem-solving**
+
+---
+
+ 👯 Open to Collaboration  
+
+- **Data Analytics & Business Intelligence** projects  
+- Python-based **data processing and visualization** solutions  
+- Entry-level **Machine Learning and AI-assisted applications**
+
+---
+
+🤝 Looking for Guidance In  
+
+- Advanced **Machine Learning and NLP** concepts  
+- Deploying analytics solutions in **real-world environments**  
+- **Data storytelling** and professional dashboard design
+
+---
+
+🌱 Currently Learning  
+
+- Advanced **SQL** and database optimization techniques  
+- **Machine Learning & NLP** fundamentals  
+- Best practices in **Power BI and Tableau**
+
+---
+
+💬 Ask Me About  
+
+- Data Analytics (**Python, SQL, Excel, Power BI**)  
+- AI-based **Resume Screening and Job Matching Systems**  
+- **DBMS, OOP concepts**, and foundational Machine Learning
+
+---
+
+ ⚡ Fun Fact  
+
+I enjoy turning complex, unstructured data into clean dashboards and meaningful business insights 📊
+
+---
+
+🛠️ Technical Skills  
+
+Programming Languages  
+C, C++, SQL, Python, JavaScript, HTML, CSS  
+
+Data & Visualization
+Power BI, Microsoft Excel (Pivot Tables, Charts), Data Cleaning  
+
+Databases 
+MySQL, PostgreSQL  
+
+Core Computer Science  
+Data Structures, DBMS, Object-Oriented Programming, Operating Systems  
+
+**Tools & Platforms**  
+Git, GitHub, VS Code  
+
+---
+
+ 🚀 Projects  
+
+📊 Business Sales & Customer Intelligence Analytics Platform  
+**Technologies:** Excel, SQL, Python, Power BI, Tableau  
+
+- Analyzed sales performance, customer behavior, and revenue trends  
+- Cleaned and processed large datasets using Python and Excel  
+- Performed SQL-based analysis to track key business KPIs  
+- Designed interactive dashboards to support management decisions  
+
+---
+
+ 🤖 Smart Resume Screening & Job Match System (AI-Assisted)  
+**Technologies:** Python, Machine Learning, NLP, Scikit-learn, ChatGPT  
+
+- Developed an AI-assisted resume screening and job matching system  
+- Applied NLP techniques to extract skills and experience from resumes  
+- Built a machine learning model to calculate resume–job match scores  
+- Generated structured, HR-friendly insights for faster candidate shortlisting  
+
+---
+
+📜 Certifications  
+
+- SQL and Relational Databases – IBM  
+- Power BI Certification  
+- Google Cloud Generative AI Internship  
+- Real-Time Operating Systems – NPTEL  
+- Palo Alto Cybersecurity Internship – AICTE  
+- Network Security Fundamentals – Cisco  
+
+---
+
+🏆 Achievements & Activities  
+
+- Active problem solver on **LeetCode and GeeksforGeeks**  
+- Participant in **Neuro Nest Hackathon** and college-level hackathons  
+- Editorial Member, **Shrinik Club**  
+- Volunteer, **Rotary Club** – Blood Donation Camp  
+- Completed **Supply Chain Operations Academy (SCOA)** Workshop  
+
+---
+
+🔗 Connect With Me  
+
+📧 **Email:** rawatrishabh015@gmail.com  
+📱 **Phone:** +91 9935451312  
+
+🌐 **GitHub:** https://github.com/rishabh-1312  
+💼 **LinkedIn:** https://www.linkedin.com/in/rishabh  
+🧠 **LeetCode:** https://leetcode.com/  
+
+---
+
+⭐ *Open to opportunities, collaborations, and meaningful discussions in data, software, and AI.*
+
 
 
 ## 🌐 Socials:
